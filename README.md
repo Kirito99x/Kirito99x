@@ -1,9 +1,6 @@
-<!-- ***** HEADER ***** -->
-
 <p align="center"> 
  <img src = "https://img.shields.io/badge/Hey-Visitor%20!-brightgreen"> 
  <br/> <br/>
- <img src="https://emojis.slackmojis.com/emojis/images/1471045847/821/fistbump.gif?1471045847" width="20px"> 
 </p>
 
 <!-- <p align="center"> 
@@ -14,32 +11,27 @@
 </p> -->
 
 <h2 align="center">
- <img src="https://emojis.slackmojis.com/emojis/images/1471045860/875/monkey.gif?1471045860" width="30" /> 
  Welcome to my Github profile 
- <img src="https://emojis.slackmojis.com/emojis/images/1471045850/833/handshake.gif?1471045850" width="20" /> 
 </h2> 
 <br/>
-
-<!-- ****************** -->
 
 <!-- ***** MY STATS ***** -->
 
 <h2 align="left">
- <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="30" /> 
  My stats:
 </h2> 
 <br/>
 
 <p> 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kirito99x&show_icons=true&theme=dracula" alt="Kirito99x"> 
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kirito99x&show_icons=true&theme=ambient_gradient" alt="Kirito99x"> 
  <br/><br/>
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirito99x&theme=dracula" alt="Kirito99x"> 
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirito99x&theme=ambient_gradient" alt="Kirito99x"> 
 </p>
 
 <p> 
  <br/><br/><br/><br/><br/>
 <p align="left">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirito99x&show_icons=true&theme=tokyonight_duo" alt="Kirito99x" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirito99x&show_icons=true&theme=ambient_gradient" alt="Kirito99x" />
 </p> 
 </p>
 <br/>
@@ -63,9 +55,13 @@
 <!-- ***** FOOTER ***** -->
 
 <h3 align="center">
- <img src="https://emojis.slackmojis.com/emojis/images/1471045834/773/bow.gif?1471045834" width="20" /> 
  See you again ! 
- <img src="https://emojis.slackmojis.com/emojis/images/1471045833/765/beer.gif?1471045833" width="20" />
 </h3>
 
 <br/>
+
+<p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=tridibsamanta" alt="visitor badge"/>
+</p>
+
+<!-- ****************** -->
