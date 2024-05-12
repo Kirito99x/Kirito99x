@@ -50,7 +50,6 @@
 <!-- ***** REACH OUT TO ME ***** -->
 
 <h2>
- <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30"> 
  Reach out to me 
 </h2>
 
@@ -70,9 +69,3 @@
 </h3>
 
 <br/>
-
-<p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=tridibsamanta" alt="visitor badge"/>
-</p>
-
-<!-- ****************** -->
