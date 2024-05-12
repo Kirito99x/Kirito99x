@@ -56,8 +56,8 @@
 
 [<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="40">](https://www.linkedin.com/in/mohamed-ali-871a6b176/) 
 [<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" width="40">](https://github.com/Kirito99x)
-[<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="40">](https://www.instagram.com/tridib_samanta/)
-[<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-512.png" width="40">](https://twitter.com/)
+[<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="40">](https://www.instagram.com/moe_syf99?igsh=MXBoZW5jb2xzNmUzcQ==)
+[<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-512.png" width="40">](https://twitter.com/mohmad123456761?t=Z5BQYwYKXZPtPbNj2gCcdg&s=09)
 <!-- *************************** -->
 
 
