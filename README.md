@@ -14,6 +14,14 @@
  Welcome to my Github profile 
 </h2> 
 <br/>
+<!-- ***** ABOUT ME ***** -->
+<h2 align="left">
+ About Me:
+</h2> 
+<p align="left">
+ Hi there! I'm Mohamed, a passionate Mechtronics Engineer, I love coding, exploring new technologies, and sharing my knowledge with others. Feel free to explore my projects and reach out for collaborations!
+</p>
+<br/>
 
 <!-- ***** MY STATS ***** -->
 
@@ -37,6 +45,40 @@
 <br/>
 
 <!-- ******************** -->
+<!-- ***** PROJECTS ***** -->
+<h2 align="left">
+ Featured Projects:
+</h2> 
+<p align="left">
+ Here are some of my highlighted projects:
+ 
+ - [Project 1](https://github.com/Kirito99x/Chatbot_Project): Chatbot usin deep learing
+ - [Project 2](https://github.com/Kirito99x/AI_models/tree/main/Mobile_price_prediction): Mobile price prediction model usin maching learning.
+</p>
+<br/>
+
+<!-- ***** SKILLS ***** -->
+<h2 align="left">
+ Skills:
+</h2> 
+<p align="left">
+ - Programming Languages: Python, JavaScript, Arduino C.
+ - Web Technologies: HTML/CSS, Nextjs.
+ - Tools & Technologies: Git, VS Code, Arduino IDE, proteus.
+</p>
+<br/>
+
+<!-- ***** INTERESTS ***** -->
+<h2 align="left">
+ Interests:
+</h2> 
+<p align="left">
+ - Open Source Contribution
+ - Machine Learning & AI
+ - Web Development
+ - Mobile App Development
+</p>
+<br/>
 
 
 <!-- ***** REACH OUT TO ME ***** -->
